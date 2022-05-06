@@ -1,7 +1,7 @@
 # LaunchPad
-[![](https://poggit.pmmp.io/shield.state/LaunchPad)](https://poggit.pmmp.io/p/LaunchPad)
+[![](https://poggit.pmmp.io/shield.state/LaunchACM)](https://poggit.pmmp.io/p/LaunchACM)
 
-[![](https://poggit.pmmp.io/shield.api/LaunchPad)](https://poggit.pmmp.io/p/LaunchPad)
+[![](https://poggit.pmmp.io/shield.api/LaunchACM)](https://poggit.pmmp.io/p/LaunchACM)
 
 The best launch release for Pocketmine-MP 4.0, easy to use.
 It adds fun sounds that you can configure in the 'config.yml'. This is the page for the sounds:
@@ -12,11 +12,11 @@ It adds fun sounds that you can configure in the 'config.yml'. This is the page 
 
 ### Config
 ```yaml
-   #  _                                      _       ____                _ 
-   # | |       __ _   _   _   _ __     ___  | |__   |  _ \    __ _    __| |
-   # | |      / _` | | | | | | '_ \   / __| | '_ \  | |_) |  / _` |  / _` |
-   # | |___  | (_| | | |_| | | | | | | (__  | | | | |  __/  | (_| | | (_| |
-   # |_____|  \__,_|  \__,_| |_| |_|  \___| |_| |_| |_|      \__,_|  \__,_|
+   #    _                                      _          _       ____   __  __ 
+   #   | |       __ _   _   _   _ __     ___  | |__      / \     / ___| |  \/  |
+   #   | |      / _` | | | | | | '_ \   / __| | '_ \    / _ \   | |     | |\/| |
+   #   | |___  | (_| | | |_| | | | | | | (__  | | | |  / ___ \  | |___  | |  | |
+   #   |_____|  \__,_|  \__,_| |_| |_|  \___| |_| |_| /_/   \_\  \____| |_|  |_|                                                                         
    #           by fernanACM
    # The best launchpad for PocketMine-MP 4.0, easy to use.
    # The best launch release for Pocketmine-MP 4.0, easy to use.
