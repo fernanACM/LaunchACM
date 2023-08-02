@@ -181,6 +181,8 @@ LaunchPad:
           soundName: "mob.irongolem.walk"
           soundPitch: 1.3
    ```
+### 📢 Report bug
+* If you find any bugs in this plugin, please let me know via: [issues](https://github.com/fernanACM/LaunchACM/issues)
    
 ### 📞 Contact
 | Redes | Tag | Link |
@@ -189,4 +191,9 @@ LaunchPad:
 | Discord | fernanACM#5078 | [Discord](https://discord.gg/YyE9XFckqb) |
 | GitHub | fernanACM | [GitHub](https://github.com/fernanACM)
 | Poggit | fernanACM | [Poggit](https://poggit.pmmp.io/ci/fernanACM)
+
+### ✔ Credits
+| Authors | Github | Lib |
+|---------|--------|-----|
+| DaPigGuy | [DaPigGuy](https://github.com/DaPigGuy) | [libPiggyUpdateChecker](https://github.com/DaPigGuy/libPiggyUpdateChecker) |
 ****
