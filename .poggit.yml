@@ -7,6 +7,9 @@ projects:
   LaunchACM:
     path: ""
     icon: icon-acm.png
+    libs:
+      - src: ACM-PocketMine-MP/libPiggyUpdateChecker/libPiggyUpdateChecker
+        version: ^2.0.0
     lint:
       phpstan: false
 ...
